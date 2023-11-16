@@ -12,6 +12,7 @@ Thank you So much:))))
 1. By writing text the _**Top Text**_ input, you can see words on the top of the image
 2. By writing text the _**Bottom Text**_ input, you can see words on the bottom of the image
 
+![memes](https://github.com/MastooraTurkmen/Meme-Generator/assets/132576850/a8ea38df-2c2b-4a32-8462-c6937d911bbc)
 
 ![Alt text](<Screenshot 2023-10-02 104159.png>)
 
