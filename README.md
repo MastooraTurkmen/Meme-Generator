@@ -21,3 +21,8 @@ Thank you So much:))))
 
 Quick start:
 
+````
+$ npm install
+$ npm run dev
+$ npm start
+````
