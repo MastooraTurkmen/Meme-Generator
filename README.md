@@ -1,8 +1,6 @@
 # Meme Generator
 
-## Asalamu Alikum there,
-
-https://my-meme-generator-react.netlify.app/
+Asalamu Alikum there,
 
 
 This is my other React Project: Meme Generator. There you can click Get a new meme images and get lots of funny meme images. And also you can write on Top text and Bottom text.
