@@ -54,3 +54,7 @@ $ cd Meme-Generator
 ```
 
 -------
+
+
+## Languages and Tools are used 🗣️🔧
+
