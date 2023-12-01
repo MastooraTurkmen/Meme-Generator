@@ -90,3 +90,4 @@ $ cd Meme-Generator
 
 -----
 
+## React + Vite
