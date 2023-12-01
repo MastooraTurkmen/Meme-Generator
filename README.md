@@ -107,3 +107,4 @@ Currently, two official plugins are available:
 <br>
 [Github](https://github.com/MastooraTurkmen/) 
 <br>
+[Twitter](https://twitter.com/MastooraJ22)
