@@ -86,3 +86,7 @@ $ cd Meme-Generator
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Meme-Generator_** and then select the **_Deploy Meme-Generator_** Button.
 7. Now your project is Live.
+
+
+-----
+
