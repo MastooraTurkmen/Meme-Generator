@@ -121,3 +121,4 @@ Currently, two official plugins are available:
 5. ***Components***
    + ***Header JSX***
    + ***Meme JSX***
+6. ***.gitignore***
