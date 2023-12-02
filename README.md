@@ -120,3 +120,4 @@ Currently, two official plugins are available:
 4. ***App JSX***
 5. ***Components***
    + ***Header JSX***
+   + ***Meme JSX***
