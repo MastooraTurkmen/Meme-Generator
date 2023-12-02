@@ -117,5 +117,5 @@ Currently, two official plugins are available:
 1. ***Index HTML***
 2. ***Syle CSS***
 3. ***Main JSX***
-3. ***App JSX***
-
+4. ***App JSX***
+5. ***Components***
