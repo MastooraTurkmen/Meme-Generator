@@ -115,5 +115,5 @@ Currently, two official plugins are available:
 # Codes that are used
 
 1. ***Index HTML***
-2. ***Index CSS***
-3. ***Index JS***
+2. ***Syle CSS***
+3. ***Main JS***
