@@ -122,3 +122,4 @@ Currently, two official plugins are available:
    + ***Header JSX***
    + ***Meme JSX***
 6. ***.gitignore***
+7. ***.eslintrc.cjs***
