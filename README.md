@@ -115,3 +115,4 @@ Currently, two official plugins are available:
 # Codes that are used
 
 1. ***Index HTML***
+2. ***Index CSS***
