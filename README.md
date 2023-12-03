@@ -124,3 +124,4 @@ Currently, two official plugins are available:
 6. ***.gitignore***
 7. ***.eslintrc.cjs***
 8. ***package-lock.json***
+9. ***package.json***
