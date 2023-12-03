@@ -126,3 +126,7 @@ Currently, two official plugins are available:
 8. ***package-lock.json***
 9. ***package.json***
 10. ***vite.config***
+
+
+
+## ***Index HTML***
