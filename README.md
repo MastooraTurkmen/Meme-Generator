@@ -209,4 +209,14 @@ main {
   border: 1px solid #d5d4d8;
   text-indent: 5px;
 }
+
+.form--button {
+  grid-column: 1 / -1;
+  font-family: "Karla", sans-serif;
+  border-radius: 5px;
+  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
 ```
