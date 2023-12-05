@@ -256,7 +256,9 @@ main {
 }
 
 @media screen and (min-width: 1000px) {
- 
+  .meme {
+    text-align: center;
+  }
 }
 
 ```
