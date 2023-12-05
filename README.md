@@ -219,4 +219,13 @@ main {
   border: none;
   cursor: pointer;
 }
+
+.meme {
+  position: relative;
+}
+
+.meme--image {
+  max-width: 100%;
+  border-radius: 3px;
+}
 ```
