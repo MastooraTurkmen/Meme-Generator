@@ -301,6 +301,10 @@ export default function App() {
 ```js
 import React from "react";
 
-
+export default function Header() {
+  return (
+    
+  );
+}
 
 ```
