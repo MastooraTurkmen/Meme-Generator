@@ -316,5 +316,6 @@ export default function Header() {
 ## ***Meme JSX***
 
 ```js
+import React from "react";
 
 ```
