@@ -341,4 +341,11 @@ export default function Meme() {
       randomImage: url,
     }));
   }
+  function handleChange(event) {
+    const { name, value } = event.target;
+    setMeme((prevMeme) => ({
+      ...prevMeme,
+      [name]: value,
+    }));
+  }
 ```
