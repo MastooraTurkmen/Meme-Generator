@@ -382,3 +382,7 @@ export default function Meme() {
 ```
 
 ## ***.gitignore***
+
+```git
+
+```
