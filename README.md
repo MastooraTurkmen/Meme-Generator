@@ -398,6 +398,15 @@ dist
 dist-ssr
 *.local
 
-
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 ```
