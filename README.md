@@ -380,3 +380,5 @@ export default function Meme() {
   );
 }
 ```
+
+## ***.gitignore***
