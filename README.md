@@ -359,6 +359,14 @@ export default function Meme() {
           value={meme.topText}
           onChange={handleChange}
         />
+        <input
+          type="text"
+          placeholder="Bottom text"
+          className="form--input"
+          name="bottomText"
+          value={meme.bottomText}
+          onChange={handleChange}
+        />
         
     </main>
   );
