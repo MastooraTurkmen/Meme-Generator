@@ -383,7 +383,8 @@ export default function Meme() {
 
 ## ***.gitignore***
 
-```git
+```bash
+
 # Logs
 logs
 *.log
