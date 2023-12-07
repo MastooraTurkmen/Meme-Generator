@@ -384,5 +384,20 @@ export default function Meme() {
 ## ***.gitignore***
 
 ```git
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+
 
 ```
