@@ -469,5 +469,6 @@ module.exports = {
   }
 }
 
-
 ```
+
+## ***vite.config***
