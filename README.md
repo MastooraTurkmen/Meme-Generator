@@ -442,4 +442,18 @@ module.exports = {
 
 ```json
 
+{
+  "name": "my-first-work",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+
+}
+
+
 ```
