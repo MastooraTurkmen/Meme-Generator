@@ -123,9 +123,8 @@ Currently, two official plugins are available:
    + ***Meme JSX***
 6. ***.gitignore***
 7. ***.eslintrc.cjs***
-8. ***package-lock.json***
-9. ***package.json***
-10. ***vite.config***
+8. ***package.json***
+9. ***vite.config***
 
 
 
