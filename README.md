@@ -91,7 +91,7 @@ $ cd Meme-Generator
    ![Netlify-image](./netlify-screenshot/netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for Meme-Generator_** and then select the **_Deploy Meme-Generator_** Button.
    ![Netlify-image](./netlify-screenshot/netlify-2.png)
-   ![Netlify-image](image-3.png)
+   ![Netlify-image](./netlify-screenshot/netlify-3.png)
 7. Now your project is Live.
    
 
