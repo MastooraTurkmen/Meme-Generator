@@ -88,7 +88,7 @@ $ cd Meme-Generator
 4. From there select **_Deploy with Github_**.
    ![Netlify-image](./netlify-screenshot/netlify.png)
 5. Then write your project name and select it.
-   ![Netlify-image](image-1.png)
+   ![Netlify-image](./netlify-screenshot/netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for Meme-Generator_** and then select the **_Deploy Meme-Generator_** Button.
    ![Netlify-image](image-2.png)
    ![Netlify-image](image-3.png)
