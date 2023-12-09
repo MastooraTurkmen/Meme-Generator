@@ -86,9 +86,9 @@ $ cd Meme-Generator
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
-   ![Alt text](image.png)
+   ![Netlify-image](image.png)
 5. Then write your project name and select it.
-   ![Alt text](image-1.png)
+   ![Netlify-image](image-1.png)
 6. After selecting here you can see that the project **_Review configuration for Meme-Generator_** and then select the **_Deploy Meme-Generator_** Button.
    ![Alt text](image-2.png)
    ![Alt text](image-3.png)
