@@ -93,7 +93,7 @@ $ cd Meme-Generator
    ![Netlify-image](./netlify-screenshot/netlify-2.png)
    ![Netlify-image](./netlify-screenshot/netlify-3.png)
 7. Now your project is Live.
-   ![Netlify-image](image.png)
+   ![Netlify-image](./netlify-screenshot/netlify-4.png)
    
 
 
