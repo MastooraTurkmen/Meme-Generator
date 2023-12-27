@@ -106,15 +106,17 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-## Author 👩🏻‍💻 
+## Authors 👩🏻‍💻 
 
-**Mastoora Turkmen**  
+1. **Mastoora Turkmen**  
+2. **Zainab Turkmen** 
+3. **Muhammad Turkmen** 
+4. **Muhammad Shahir Turkmen** 
 
-[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
-<br>
-[Github](https://github.com/MastooraTurkmen/) 
-<br>
-[Twitter](https://twitter.com/MastooraJ22)
+1. ***Mastoora Turkmen***
+    + [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
+    + [Github](https://github.com/MastooraTurkmen/) 
+    + [Twitter](https://twitter.com/MastooraJ22)
 
 
 ------
