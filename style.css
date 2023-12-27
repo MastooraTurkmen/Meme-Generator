@@ -13,6 +13,8 @@ main {
   padding: 36px;
 }
 
+/* Header section */
+
 .header {
   display: flex;
   align-items: center;
@@ -37,7 +39,7 @@ main {
   font-weight: 500;
 }
 
-/* Forms */
+/* Forms section */
 
 .form {
   display: grid;
