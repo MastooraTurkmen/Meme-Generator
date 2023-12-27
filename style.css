@@ -37,6 +37,8 @@ main {
   font-weight: 500;
 }
 
+/* Forms */
+
 .form {
   display: grid;
   grid-template: 40px 40px / 1fr 1fr;
