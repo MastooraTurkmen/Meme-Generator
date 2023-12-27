@@ -11,7 +11,7 @@ This is my other React Project: Meme Generator. There you can click Get a new me
 
 ![memes](https://github.com/MastooraTurkmen/Meme-Generator/assets/132576850/a8ea38df-2c2b-4a32-8462-c6937d911bbc)
 
-![Alt text](<Screenshot 2023-10-02 104159.png>)
+![memes](./screenshot/mem.png)
 
 ![meme](https://github.com/MastooraTurkmen/Meme-Generator/assets/132576850/670d50bf-4eae-4886-a84b-56d73347879b)
 
